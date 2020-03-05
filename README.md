@@ -2,10 +2,10 @@
 
 This repository contains the source code for the [blog](https://developers.amadeus.com/blog) article `Building a WordPress Plugin with Amadeus APIs`.
 
-The article is split in two different parts:
+The article is split into two different parts:
 
-[Part 1 ](https://developers.amadeus.com/blog/build-wordpress-plugin-amadeus-api)
-[Part 2 ](https://developers.amadeus.com/blog/build-wordpress-plugin-amadeus-api-part-2)
+* [Part 1 ](https://developers.amadeus.com/blog/build-wordpress-plugin-amadeus-api)
+* [Part 2 ](https://developers.amadeus.com/blog/build-wordpress-plugin-amadeus-api-part-2)
 
 
 ## License
